@@ -1,0 +1,5 @@
+{
+  "name": "ZnS Wurtzite Lattice Visualizer",
+  "description": "An interactive 3D visualization of the hexagonal (Wurtzite) crystal structure of Zinc Sulfide (ZnS) using Three.js and Angular in a polished format.",
+  "requestFramePermissions": []
+}
